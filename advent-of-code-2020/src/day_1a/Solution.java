@@ -10,7 +10,7 @@ public class Solution {
 	static boolean isFound = false;
 
 	public static void main(String[] args) throws IOException {
-		FileReader file = new FileReader("src/com/aoc2020/day_1a/input.txt");
+		FileReader file = new FileReader("src/day_1a/input.txt");
 		BufferedReader reader = new BufferedReader(file);
 
 		ArrayList<Integer> data = new ArrayList<Integer>();
