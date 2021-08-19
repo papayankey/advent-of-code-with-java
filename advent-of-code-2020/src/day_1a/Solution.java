@@ -1,4 +1,4 @@
-package com.aoc2020.day_1a;
+package day_1a;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
